@@ -16,7 +16,7 @@
     ],
     "dependencies": {
         "colors": "*",
-        "express": "2.5.10",
+        "express": "4.19.2",
         "glob": "~3.1.11",
         "js-yaml": "1.0.2",
         "jslint": "~0.1.9",
